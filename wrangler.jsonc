@@ -1,0 +1,8 @@
+{
+    "name": "caseas1-it",
+    "compatibility_date": "2026-05-06",
+    "assets": {
+        "directory": "./",
+        "not_found_handling": "404-page"
+    }
+}
