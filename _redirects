@@ -1,1 +1,7 @@
 /index.php / 301
+/casea-casino-online-it/* /casea-recensioni-it/:splat 301
+/casea-casino-it/* /casea-recensioni-it/:splat 301
+/casea-it/* /casea-recensioni-it/:splat 301
+/italy-it/* /casea-recensioni-it/:splat 301
+/caseas/* /casea-recensioni-it/:splat 301
+/it-IT/* /casea-recensioni-it/:splat 301
